@@ -4,6 +4,8 @@ Awesome AI Coding Tools
 
 Aider: https://github.com/Aider-AI/aider
 
+Amazon Bedrock : https://aws.amazon.com/bedrock/ 
+
 Amazon Q Developer : https://aws.amazon.com/q/developer/
 
 Blackbox AI : https://www.blackbox.ai/ 
