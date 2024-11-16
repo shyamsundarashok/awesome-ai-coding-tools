@@ -22,9 +22,13 @@ Codeium's Windsurf: https://codeium.com/windsurf
 
 Code GPT : https://codegpt.co/
 
+Codestral : https://mistral.ai/news/codestral/ 
+
 Cody : https://github.com/sourcegraph/cody 
 
 Crawl4AI: https://github.com/unclecode/crawl4ai 
+
+Cursor : https://codesubmit.io/blog/ai-code-tools/ 
 
 Docling (by IBM):https://research.ibm.com/blog/docling-generative-AI ; https://github.com/DS4SD/docling
 
