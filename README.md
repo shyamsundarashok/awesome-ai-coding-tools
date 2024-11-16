@@ -10,6 +10,8 @@ Blackbox AI : https://www.blackbox.ai/
 
 ChatGPT : https://chatgpt.com/
 
+Claude : https://www.anthropic.com/claude
+
 Cline: https://github.com/cline
 
 Codeium: https://codeium.com/
