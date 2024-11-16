@@ -3,7 +3,9 @@ Awesome AI Coding Tools
 
 
 Aider: https://github.com/Aider-AI/aider
+
 Cline: https://github.com/cline
+
 Codeium: https://codeium.com/
 Codeium's Windsurf: https://codeium.com/windsurf
 Crawl4AI: https://github.com/unclecode/crawl4ai 
