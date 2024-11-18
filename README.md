@@ -26,6 +26,8 @@ Codestral : https://mistral.ai/news/codestral/
 
 Cody : https://github.com/sourcegraph/cody 
 
+Continue : https://www.continue.dev/
+
 Crawl4AI: https://github.com/unclecode/crawl4ai 
 
 Cursor : https://codesubmit.io/blog/ai-code-tools/ 
