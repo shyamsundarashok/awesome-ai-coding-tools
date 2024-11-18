@@ -10,6 +10,8 @@ Amazon Q Developer : https://aws.amazon.com/q/developer/
 
 Blackbox AI : https://www.blackbox.ai/ 
 
+Bugasura : https://bugasura.io/
+
 ChatGPT : https://chatgpt.com/
 
 Claude : https://www.anthropic.com/claude
@@ -24,6 +26,8 @@ Code GPT : https://codegpt.co/
 
 Codestral : https://mistral.ai/news/codestral/ 
 
+Code-LMs: https://github.com/VHellendoorn/Code-LMs
+
 Cody : https://github.com/sourcegraph/cody 
 
 Continue : https://www.continue.dev/
@@ -37,6 +41,10 @@ Docling (by IBM):https://research.ibm.com/blog/docling-generative-AI ; https://g
 GitHub Copilot : https://github.com/features/copilot 
 
 GPT4ALL : https://github.com/nomic-ai/gpt4all
+
+Google Gemini : https://gemini.google.com/
+
+Google Gemini for Android Studio : https://developer.android.com/studio/preview/gemini
 
 InvokeAI: https://github.com/invoke-ai/InvokeAI
 
